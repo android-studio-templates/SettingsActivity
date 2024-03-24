@@ -1,0 +1,3 @@
+# SettingsActivity
+
+### Android Studio Template
